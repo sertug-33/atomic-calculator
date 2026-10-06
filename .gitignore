@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+build/
+dist/
+*.spec
+yedek_eski/
+atomic_calculator_hata.log
